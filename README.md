@@ -6,18 +6,6 @@ DocuMind Enterprise is a Retrieval-Augmented Generation (RAG) based corporate kn
 
 ---
 
-## 📸 Screenshots
-
-**Upload & Index Documents**
-![DocuMind Upload](screenshots/upload.png)
-*Upload PDFs, get them indexed instantly — status shown live in the sidebar*
-
-**Ask Questions, Get Answers**
-![DocuMind Q&A](screenshots/qa.png)
-*Query your documents in natural language and get context-aware, structured answers*
-
----
-
 ## ✨ Features
 
 - 📄 **PDF Upload** — Upload any company document (handbooks, SOPs, policies, project docs)
